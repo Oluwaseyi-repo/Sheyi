@@ -1,2 +1,2 @@
 # Sheyi
-An open-source project that emphasizes optimal design solutions process and engineering systems using traditional and AI methods
+An open-source project focused on the optimal design of engineering systems using both traditional and AI-driven methods
